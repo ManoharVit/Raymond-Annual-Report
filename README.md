@@ -36,22 +36,17 @@ The "Raymond Annual Report 2022" aimed to explore customer behaviors and sales d
 
 ### Customer Gender:
 - Women are more likely to make purchases, representing about 65% of total sales.
-
 ### Top States:
 - Maharashtra, Karnataka, and Andhra Pradesh are top contributors to sales, approximately 35% combined.
-
 ### Age Group:
 - Adults aged 30-49 are the largest customer segment, accounting for about 50% of total sales.
-
 ### Sales Channels:
 - Online platforms like Amazon, Flipkart, and Myntra are the leading sales channels, with around 80% contribution to sales.
 
 ## Recommendations for Sales Improvement
 
 - **Targeted Marketing**: Focus on women within the 30-49 age group in Maharashtra, Karnataka, and Uttar Pradesh.
-
 - **Leverage Preferred Channels**: Prioritize Amazon, Flipkart, and Myntra for promotional activities.
-
 - **Personalized Offers**: Roll out customized ad campaigns, offers, and coupons for the target demographic.
 
 Following these strategies should help Raymond Showroom to optimize sales by targeting the most responsive customer segments and channels.
