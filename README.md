@@ -1,7 +1,7 @@
 # Raymond Showroom Annual Report
 This project presents a detailed analysis of the Raymond Showroom's 2022 financial data, leveraging Excel's advanced analytical capabilities. The repository includes meticulously organized spreadsheets and utilizes a suite of analytical tools to unravel and interpret Vrinda Store's financial performance over the past year. The aim is to provide profound insights into sales trends, customer demographics, and operational efficacy, thereby informing strategic business decisions for future growth and profitability.
 
-<img width="1334" alt="Dashboard" src="https://github.com/ManoharVit/Raymond-Annual-Report/assets/50493896/44940a29-cf38-4be1-9b36-50266e80fc27">
+<img width="1237" alt="Dashboard" src="https://github.com/ManoharVit/Raymond-Annual-Report/assets/50493896/7e82b6e1-4398-4e4b-9510-5e9efafcf044">
 
 # Retail Sales Performance & Customer Analysis - Annual Reports
 
